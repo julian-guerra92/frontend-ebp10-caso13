@@ -3,7 +3,7 @@ name: Build and Deploy to Vercel
 on:
   push:
     branches:
-      - feature/deploy
+      - main
 
 jobs:
   build-and-validate:
