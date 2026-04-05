@@ -1,4 +1,4 @@
-# frontend-ebp10-caso13
+# frontend-ebp10-caso13 Deploy
 
 Frontend del **Sistema de Organización de Tareas Domésticas** (Caso 13), desarrollado con **React** usando el framework **Next.js 14** y **Tailwind CSS** por el equipo **EBP10 de CodeF@ctory**.
 
